@@ -1,0 +1,6 @@
+devid=oeloeloel
+devtitle=Oel
+gameid=fake-moon
+gametitle=Fake Moon
+version=0.1
+icon=metadata/play-time-logo.png
